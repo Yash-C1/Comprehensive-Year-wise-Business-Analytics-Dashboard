@@ -1,3 +1,12 @@
 # Comprehensive-Year-wise-Business-Analytics-Dashboard
-Power BI Yearly Metrics Dashboard highlighting sales, quantity, and delivery times, featuring top customers, product insights, and market segments, helping in data-driven decisions and business strategies.
-![Output]()
+    
+![Output](https://github.com/Yash-C1/Comprehensive-Year-wise-Business-Analytics-Dashboard/blob/main/Images/1.PNG)  
+  
+![Output](https://github.com/Yash-C1/Comprehensive-Year-wise-Business-Analytics-Dashboard/blob/main/Images/2.PNG)  
+
+![Output](https://github.com/Yash-C1/Comprehensive-Year-wise-Business-Analytics-Dashboard/blob/main/Images/3.PNG)
+
+![Output](https://github.com/Yash-C1/Comprehensive-Year-wise-Business-Analytics-Dashboard/blob/main/Images/4.PNG)  
+
+![Output](https://github.com/Yash-C1/Comprehensive-Year-wise-Business-Analytics-Dashboard/blob/main/Images/5.PNG)  
+  
